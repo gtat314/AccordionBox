@@ -7,7 +7,7 @@ var AccordionBoxIcons = {
 
 
 /**
- * 
+ *  
  * @param {Object}                  schema 
  * @param {HTMLElement|CSSRule}     schema.parent
  * @param {String}                  schema.title
